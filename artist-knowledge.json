@@ -1,0 +1,69 @@
+{
+  "artist": "Raymann Rayy",
+  "official_links": [
+    "https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR",
+    "https://youtube.com/@raymannrayy",
+    "https://www.instagram.com/raymannrayy",
+    "https://music.apple.com/us/artist/raymann-rayy/1463452369",
+    "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae"
+  ],
+  "musicbrainz_mbid": "d6f90df4-5c65-4f20-a7ce-012e657e45ae",
+  "creative_universe": "The Night Man",
+  "label": "JGrander",
+  "releases": [
+    {
+      "name": "Ram Hanuman Chalisa",
+      "release_date": "2024-01-16",
+      "duration": "7:01",
+      "isrc": "INT632404193",
+      "upc": "8909040774297",
+      "catalogue_number": "00SD0RHC5732024",
+      "description": "Devotional composition."
+    },
+    {
+      "name": "Ram Hanuman Chalisa (Reprised Version)",
+      "release_date": "2024-04-13",
+      "duration": "7:01",
+      "isrc": "INI112200497",
+      "upc": "8909091546614",
+      "catalogue_number": "00RRRHCRFC42024",
+      "description": "Beatless reprise of the devotional composition."
+    },
+    {
+      "name": "Chand",
+      "release_date": "2024-09-12",
+      "duration": "3:36",
+      "isrc": "INP2X2400343",
+      "upc": "8909154981512",
+      "catalogue_number": "00WM000C5D42024",
+      "description": "Romantic song built around the image of the moon and sky as two presences that feel inseparable."
+    },
+    {
+      "name": "Doobey Rahe Hum",
+      "release_date": "2025-01-27",
+      "duration": "3:21",
+      "isrc": "INW522500001",
+      "upc": "8905900922600",
+      "catalogue_number": "00WM0DRH4772025",
+      "description": "A continuation of Chand's emotional world, using the sea and returning waves as a metaphor for two people drawn back to each other."
+    },
+    {
+      "name": "Naseeb",
+      "release_date": "2025-04-24",
+      "duration": "3:15",
+      "isrc": "INW522500006",
+      "upc": "8909352283432",
+      "catalogue_number": "00WM000NA502025",
+      "description": "Collaboration with Ronit Singh, shaped around the phrase 'Tum Ho Meri' and the feeling that someone can mean more than words can express."
+    },
+    {
+      "name": "Gulaabi Raatein (From The Night Man)",
+      "release_date": "2026-09-21",
+      "duration": "3:24",
+      "isrc": "INW522500015",
+      "upc": "8909705208990",
+      "catalogue_number": "000JGRTNC5C2026",
+      "description": "First release explicitly presented as part of The Night Man; love transforms the night into a pink, luminous world."
+    }
+  ]
+}

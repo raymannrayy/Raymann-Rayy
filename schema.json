@@ -1,0 +1,490 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist",
+      "name": "Raymann Rayy",
+      "description": "Raymann Rayy is an Indian independent music artist and creative storyteller whose work brings together contemporary music, visual storytelling and human emotion. His creative practice spans songwriting, composition, music direction and the development of cinematic music concepts.",
+      "sameAs": [
+        "https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR",
+        "https://youtube.com/@raymannrayy",
+        "https://www.instagram.com/raymannrayy",
+        "https://music.apple.com/us/artist/raymann-rayy/1463452369",
+        "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae"
+      ],
+      "subjectOf": {
+        "@id": "#the-night-man"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "#the-night-man",
+      "name": "The Night Man",
+      "creator": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "description": "Inspired by the transition from sunset into twilight and moonlight. Its recurring creative pillars are Sunset (emotions awakening), Moon (the inner world finding light) and XOXO (love and connection). Individual songs can stand alone while visuals, themes and recurring details reveal connections between chapters."
+    },
+    {
+      "@type": "Organization",
+      "@id": "#jgrander",
+      "name": "JGrander",
+      "description": "Music label associated with Raymann Rayy's releases and wider music-business activities."
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Ram Hanuman Chalisa",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT7M1S",
+      "datePublished": "2024-01-16",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INT632404193"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8909040774297"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "00SD0RHC5732024"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "A devotional musical project rooted in devotion to Shri Ram and Hanumanji. The audio was released on 16 January 2024; the music video followed on 22 January 2024.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Goswami Tulsidasji"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Ram Hanuman Chalisa (Reprised Version)",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT7M1S",
+      "datePublished": "2024-04-13",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INI112200497"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8909091546614"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "00RRRHCRFC42024"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "A beatless reprise version of the devotional composition.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Goswami Tulsidasji"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Chand",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT3M36S",
+      "datePublished": "2024-09-12",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INP2X2400343"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8909154981512"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "00WM000C5D42024"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "A romantic song built around the image of the moon and sky as two presences that feel inseparable.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Doobey Rahe Hum",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT3M21S",
+      "datePublished": "2025-01-27",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INW522500001"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8905900922600"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "00WM0DRH4772025"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "A continuation of Chand's emotional world. The sea and returning waves form a metaphor for two people separated by life's responsibilities yet drawn back to each other.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "music video director",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Naseeb",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT3M15S",
+      "datePublished": "2025-04-24",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INW522500006"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8909352283432"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "00WM000NA502025"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "A collaboration with Ronit Singh shaped around the phrase 'Tum Ho Meri' and the feeling that someone can mean more than words can express.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "featured artist",
+          "actor": {
+            "@type": "Person",
+            "name": "Ronit Singh"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Ronit Singh"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Ronit Singh"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "producer",
+          "actor": {
+            "@type": "Person",
+            "name": "Ronit Singh"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Gulaabi Raatein (From The Night Man)",
+      "byArtist": {
+        "@id": "https://musicbrainz.org/artist/d6f90df4-5c65-4f20-a7ce-012e657e45ae#artist"
+      },
+      "inLanguage": "hi",
+      "duration": "PT3M24S",
+      "datePublished": "2026-09-21",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISRC",
+          "value": "INW522500015"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "8909705208990"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Catalogue number",
+          "value": "000JGRTNC5C2026"
+        }
+      ],
+      "publisher": {
+        "@id": "#jgrander"
+      },
+      "description": "The first release explicitly presented as part of The Night Man. Love transforms the night into a pink, luminous world; even in absence, the feeling of that light can remain.",
+      "contributor": [
+        {
+          "@type": "Role",
+          "roleName": "composer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "lyricist",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "singer",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "music video director",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        },
+        {
+          "@type": "Role",
+          "roleName": "music director",
+          "actor": {
+            "@type": "Person",
+            "name": "Raymann Rayy"
+          }
+        }
+      ]
+    }
+  ]
+}
