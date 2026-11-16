@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/raymann-rayy-knowledge/sitemap.xml
+
+Sitemap: https://raymannrayy.github.io/Raymann-Rayy/sitemap.xml
